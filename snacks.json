@@ -1,0 +1,92 @@
+[
+    {
+        "item": 1,
+        "marca": "FRITO LAY",
+        "descripcion": "Pasabocas FRITO LAY Mega Lonchera Surtida x22 (586  gr)",
+        "precio": 16607.0,
+        "descuento": 35.0,
+        "precio_x_gramo": 28.34,
+        "link": "https://www.exito.com/surtido-mega-lonchera-frito-lay-586-gr-3090203"
+    },
+    {
+        "item": 2,
+        "marca": "SANISSIMO",
+        "descripcion": "Rosquitas SANISSIMO Con chía y quinúa x6und (120  gr)",
+        "precio": 13800.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 115.0,
+        "link": "https://www.exito.com/rosquitas-sanissimo-sanissimo-120-gr-3071552"
+    },
+    {
+        "item": 3,
+        "marca": "FRESCAMPO",
+        "descripcion": "Nachos FRESCAMPO sabor natural (180  gr)",
+        "precio": 3480.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 19.33,
+        "link": "https://www.exito.com/nachos-naturales-frescampo-180-gr-3103319"
+    },
+    {
+        "item": 4,
+        "marca": "FRESCAMPO",
+        "descripcion": "Maní FRESCAMPO salado con pasas (200  gr)",
+        "precio": 3930.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 19.65,
+        "link": "https://www.exito.com/mani-con-pasas-frescampo-200-gr-3099422"
+    },
+    {
+        "item": 5,
+        "marca": "FRITO LAY",
+        "descripcion": "Pasabocas FRITO LAY Lonchera Surtida x12und (271  gr)",
+        "precio": 14150.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 52.21,
+        "link": "https://www.exito.com/surtido-super-lonchera-x-12-und-frito-lay-271-gr-3090820"
+    },
+    {
+        "item": 6,
+        "marca": "FRESCAMPO",
+        "descripcion": "Uvas pasas FRESCAMPO frutos deshidratados (200  gr)",
+        "precio": 3980.0,
+        "descuento": 8.08,
+        "precio_x_gramo": 19.9,
+        "link": "https://www.exito.com/uvas-pasas-frescampo-200-gr-3075535"
+    },
+    {
+        "item": 7,
+        "marca": "FRESCAMPO",
+        "descripcion": "Almendra Natural FRESCAMPO 200  gr",
+        "precio": 11900.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 59.5,
+        "link": "https://www.exito.com/almendra-natural-frescampo-200-gr-3075530"
+    },
+    {
+        "item": 8,
+        "marca": "BIMBO",
+        "descripcion": "Multipack Rosquitas BIMBO x8und (120  gr)",
+        "precio": 12550.0,
+        "descuento": "N/A",
+        "precio_x_gramo": 104.58,
+        "link": "https://www.exito.com/multipack-rosquitas-bimbo-120-gr-3050603"
+    },
+    {
+        "item": 9,
+        "marca": "CHEETOS",
+        "descripcion": "Pasabocas Chitos CHEETOS Natural (180  gr)",
+        "precio": 11985.0,
+        "descuento": 19.56,
+        "precio_x_gramo": 66.58,
+        "link": "https://www.exito.com/cheetos-15-grs-x-12-unidades-471975"
+    },
+    {
+        "item": 10,
+        "marca": "CHOCLITOS",
+        "descripcion": "Pasabocas CHOCLITOS Limón x12und 27gr (324  gr)",
+        "precio": 12075.0,
+        "descuento": 29.39,
+        "precio_x_gramo": 447.22,
+        "link": "https://www.exito.com/choclito-limon-29-gr-x-12-unidades-429996"
+    }
+]
